@@ -4,3 +4,8 @@
 // Date: Feburary 04,2019
 // Student: C0742332
 //Course: CSD 2214 Section 6
+
+<script>
+    var date = new Date();
+        document.body.innerHTML = "<h1> The date is " + date + " </h1>";
+    </script>
